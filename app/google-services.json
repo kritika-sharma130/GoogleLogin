@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956515386582",
+    "project_id": "login-abf60",
+    "storage_bucket": "login-abf60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956515386582:android:ab36c9c27e2b30b736f577",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956515386582-lrdfhuuo8tj2len1s3ho06cn8qubdsq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlelogin",
+            "certificate_hash": "31ab4055c90df83c0d295c20138b9e1c24efff67"
+          }
+        },
+        {
+          "client_id": "956515386582-d85up54qua0d578gthooe3n0svmnkha9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_CbnwQHjxmflNIeQ_RnL4G-1srR3Vk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956515386582-d85up54qua0d578gthooe3n0svmnkha9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
